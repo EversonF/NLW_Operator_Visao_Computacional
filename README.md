@@ -44,14 +44,14 @@ O sistema realiza o seguinte fluxo:
 ## 🏗️ Arquitetura simplificada
 
 Webcam <br>
-↓
-OpenCV (captura de imagem)
-↓
-Modelo de IA (PyTorch / HuggingFace)
-↓
-Detecção de objetos
-↓
-Interface com Streamlit
+↓ <br>
+OpenCV (captura de imagem) <br>
+↓ <br>
+Modelo de IA (PyTorch / HuggingFace) <br>
+↓ <br>
+Detecção de objetos <br>
+↓ <br>
+Interface com Streamlit <br>
 
 ---
 
