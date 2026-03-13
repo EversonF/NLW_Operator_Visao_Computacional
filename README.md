@@ -1,6 +1,8 @@
 # NLW_Operator_Visao_Computacional
 # 👁️ Vision Guard
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+
 Projeto desenvolvido durante o **NLW Operator** da Rocketseat na trilha de **Visão Computacional com Python**.
 
 O objetivo da aplicação é utilizar **Inteligência Artificial para detectar objetos em tempo real através da webcam**, aplicando técnicas de **Computer Vision e Machine Learning**.
