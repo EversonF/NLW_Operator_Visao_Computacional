@@ -43,7 +43,7 @@ O sistema realiza o seguinte fluxo:
 
 ## 🏗️ Arquitetura simplificada
 
-Webcam
+Webcam <br>
 ↓
 OpenCV (captura de imagem)
 ↓
