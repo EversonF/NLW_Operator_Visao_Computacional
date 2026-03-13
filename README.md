@@ -2,6 +2,8 @@
 # 👁️ Vision Guard
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
+![PyTorch](https://img.shields.io/badge/PyTorch-AI-red)
 
 Projeto desenvolvido durante o **NLW Operator** da Rocketseat na trilha de **Visão Computacional com Python**.
 
